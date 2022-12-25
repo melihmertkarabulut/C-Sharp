@@ -60,22 +60,23 @@
 
         
 
-        // Read in the contents of the text file
-        Console.WriteLine("Metin dosyasının ismini giriniz:");
-        string dosyaismi = Console.ReadLine();
-        string dosyaPath = dosyaismi + ".txt";
+        //Dosyanın ismini kayıt ediyorum
+        
+        string dosyaPath = "sifrele.txt"
         string txtDosya = File.ReadAllText(dosyaPath);
 
-        // Prompt the user for a keyword
+        // Anahtar kelimeyi kullanıcıdan istiyorum
         Console.WriteLine("Anahtar kelimeyi giriniz:");
         string anahtar = Console.ReadLine();
 
+        //sifrelenmis adı altında string değer oluşturup Sifrele methodunu kullnarak sifrelenmiş halini değişkene atıyorum.
         string sifrelenmis = Sifrele(txtDosya, anahtar);
 
-        // Write the encrypted contents back to the text file
+        //Yazının şifrelenmiş halini dosyaya yazdırıyorum.
         File.WriteAllText(dosyaPath, sifrelenmis);
         Console.WriteLine("Metin şifrenelerek kayıt edilmiştir!");
 
+        //.exe olarak açıldığında console kapanmasın diye tuşa basılmasını bekletiyorum
         Console.ReadKey();
     }
 }

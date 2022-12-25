@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\melih\\Desktop\\Proje\\C#\\C# Console ile Vigenere Şifreleme\\VigenereSifrelemeNet\\VigenereSifrelemeNet\\VigenereSifrelemeNet.csproj",
+      "projectUniqueName": "C:\\Users\\melih\\Desktop\\OKUL\\PROGRAMLAMA\\ÖDEVLER\\C# İle Vigenere Şifreleme Ödev-4\\VigenereSifrelemeNet\\VigenereSifrelemeNet\\VigenereSifrelemeNet.csproj",
       "projectName": "VigenereSifrelemeNet",
-      "projectPath": "C:\\Users\\melih\\Desktop\\Proje\\C#\\C# Console ile Vigenere Şifreleme\\VigenereSifrelemeNet\\VigenereSifrelemeNet\\VigenereSifrelemeNet.csproj",
+      "projectPath": "C:\\Users\\melih\\Desktop\\OKUL\\PROGRAMLAMA\\ÖDEVLER\\C# İle Vigenere Şifreleme Ödev-4\\VigenereSifrelemeNet\\VigenereSifrelemeNet\\VigenereSifrelemeNet.csproj",
       "packagesPath": "C:\\Users\\melih\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\melih\\Desktop\\Proje\\C#\\C# Console ile Vigenere Şifreleme\\VigenereSifrelemeNet\\VigenereSifrelemeNet\\obj\\",
+      "outputPath": "C:\\Users\\melih\\Desktop\\OKUL\\PROGRAMLAMA\\ÖDEVLER\\C# İle Vigenere Şifreleme Ödev-4\\VigenereSifrelemeNet\\VigenereSifrelemeNet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

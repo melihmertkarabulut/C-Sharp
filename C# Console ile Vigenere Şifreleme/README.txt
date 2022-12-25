@@ -1,1 +1,0 @@
-Metin dosyasının adı "sifrele"
